@@ -1,4 +1,4 @@
-
+//Simple object property finding algorithm
 function whatIsInAName(collection, source) {
   // What's in a name?
   var arr = [];
