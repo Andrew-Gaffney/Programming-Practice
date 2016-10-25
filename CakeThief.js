@@ -1,3 +1,5 @@
+//Simple knapsack problem algorithm
+
 var cakeTypes = [
     {weight: 7, value: 160},
     {weight: 3, value: 90},
