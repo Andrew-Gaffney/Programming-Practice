@@ -1,4 +1,4 @@
-
+//Simple word replacement algorithm
 function myReplace(str, before, after) {
   
   var newAfter = after;
